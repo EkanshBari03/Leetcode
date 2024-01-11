@@ -1,7 +1,5 @@
 # [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 
-[中文文档](/solution/0900-0999/0938.Range%20Sum%20of%20BST/README.md)
-
 ## Description
 
 <p>Given the <code>root</code> node of a binary search tree and two integers <code>low</code> and <code>high</code>, return <em>the sum of values of all nodes with a value in the <strong>inclusive</strong> range </em><code>[low, high]</code>.</p>
